@@ -5,8 +5,8 @@ Quantifying Pre- and Post-Fire Structural Changes in Temperate Forests Using GED
 
 The provided data and scripts are directly associated with the analysis and results presented in the following sections of the paper:
 
-Section 2.1: Comparison of Canopy Height Density
+result.2.1: Comparison of Canopy Height Density
 
-Section 2.2: Comparison of Plant Area Volume Density (PAVD) Vertical Steps
+result.2.2: Comparison of Plant Area Volume Density (PAVD) Vertical Steps
 
-Section 2.4: Burnt Area Classification
+result.2.4: Burnt Area Classification
